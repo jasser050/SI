@@ -1,0 +1,15 @@
+tn\esprit\autoloc\Entities\Maintenance.class
+tn\esprit\autoloc\Entities\Employee.class
+tn\esprit\autoloc\Entities\Equipement.class
+tn\esprit\autoloc\Entities\enumerations\ModePaiement.class
+tn\esprit\autoloc\AutoLocApplication.class
+tn\esprit\autoloc\Entities\Vehicule.class
+tn\esprit\autoloc\Entities\enumerations\RoleEmployee.class
+tn\esprit\autoloc\Entities\Reservation.class
+tn\esprit\autoloc\Entities\enumerations\StatutVehicule.class
+tn\esprit\autoloc\Entities\Agence.class
+tn\esprit\autoloc\Entities\enumerations\StatutReservation.class
+tn\esprit\autoloc\Entities\Paiement.class
+tn\esprit\autoloc\Entities\enumerations\CategorieVehicule.class
+tn\esprit\autoloc\Entities\Client.class
+tn\esprit\autoloc\Entities\Contrat.class
